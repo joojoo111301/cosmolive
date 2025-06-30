@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "222617e1e588806a9896dde851dcd1b0",
+	"author": "Joojoo",
 	"tracking": {
 		"google-analytics": {
 			"use-ga": true,
@@ -30,13 +30,13 @@
 		"calendar": "",
 		"kofi": "",
 		"buy-me-a-coffee": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": ""
 	},
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
-		"data-repo-id": "R_kgDOK0FuUA",
+		"data-repo": "joojoo111301/cosmolive",
+		"data-repo-id": "R_kgDOPEeyMg",
 		"data-category": "Announcements",
 		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
 		"data-mapping": "pathname",
